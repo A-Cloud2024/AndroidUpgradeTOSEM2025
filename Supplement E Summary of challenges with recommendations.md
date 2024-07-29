@@ -9,29 +9,29 @@ The icon in front of each suggestion represents its type: 📆management, 📄do
   	<tr>
 		<td align="left" ><b>Stage</b></td>
 		<td align="left" ><b>Challenge</b></td>
-        <td align="left" ><b>Recommend</b></td>
+        	<td align="left" ><b>Recommend</b></td>
+	</tr>
 	<tr>
-	<tr>
-		<td align="left"  rowspan="4">><b>Baseline Analysis</b></td>
+		<td align="left"  rowspan="4"><b>Baseline Analysis</b></td>
 		<td align="left" >⭐<b>Architecture Compatibility.</b> The intricacies of AOSP's architectural changes encompass deprecated, irreversible, and duplicated features, posing a challenge for downstream architectures to adapt (O1.1)</td>
-        <td align="left" >⭐🛠️🧑‍💻<b>Architecture Change Detection.</b> Architecture change detection tools can be enhanced to locate deprecated features, irreversible features, duplicated features, etc., and further bridge high-level architecture changes with implementation-level code modifications (R1.2)</td>
+        	<td align="left" >⭐🛠️🧑‍💻<b>Architecture Change Detection.</b> Architecture change detection tools can be enhanced to locate deprecated features, irreversible features, duplicated features, etc., and further bridge high-level architecture changes with implementation-level code modifications (R1.2)</td>
+	</tr>
+        <tr>
+		<td align="left" >⭐<b>Upgrade Strategy Decision.</b> It is challenging to determine the most suitable Android upgrade strategy, whether to adopt a forward, reverse, or merger upgrade (O1.3)</td>
+        	<td align="left" >⭐📄<b>Architecture Evolution Documentation.</b> It is significant to maintain comprehensive documentation of the architecture including features, architecture design, and the evolution process for Android systems (R1.1).</td>
 	</tr>
 	<tr>
 		<td align="left" >⭐<b>Project TQC Prediction.</b> Before initiating the Android upgrade operations, it is imperative to anticipate not only the extent of merge conflicts, but also the upgrade cycle, upgrade quality, and potential cost investment (O1.4)</td>
-        <td align="left" >⭐🛠️<b>TQC Prediction Modeling.</b> It is urgent to build a TQC prediction model based on historical data to ensure a manageable Android upgrade process (R1.3)</td>
+        	<td align="left" >⭐🛠️<b>TQC Prediction Modeling.</b> It is urgent to build a TQC prediction model based on historical data to ensure a manageable Android upgrade process (R1.3)</td>
 	</tr>
-    <tr>
+	<tr>
 		<td align="left" ><b>Intense Upgrade Cycle.</b> Facing intense competition from peers and rapid Android update cycles, developers are under pressure to quickly identify AOSP architectural and code changes (O1.2)</td>
-        <td align="left" >📄<b>Architecture Evolution Documentation.</b> It is significant to maintain comprehensive documentation of the architecture including features, architecture design, and the evolution process for Android systems (R1.1).</td>
-	</tr>
-        <tr>
-		<td align="left" ><b>Upgrade Strategy Decision.</b> It is challenging to determine the most suitable Android upgrade strategy, whether to adopt a forward, reverse, or merger upgrade (O1.3)</td>
-        <td align="left" ></td>
+        	<td align="left" ></td>
 	</tr>
     <tr>
 		<td align="left"  rowspan="4">Conflict Reason</td>
 		<td align="left" >⭐<b>AOSP Rapid Iteration.</b> Upstream AOSP's frequent feature iterations, code refactoring, and  updates made by Google trigger conflicts (O2.1)</td>
-        <td align="left" >⭐🛠️🧑‍💻<b>Understanding Architectural Coupling.</b> Developers  can employ tools to figure out the coupling between downstream Android and upstream AOSP (R2.3)</td>
+        	<td align="left" >⭐🛠️🧑‍💻<b>Understanding Architectural Coupling.</b> Developers  can employ tools to figure out the coupling between downstream Android and upstream AOSP (R2.3)</td>
 	</tr>
     <tr>
 		<td align="left" >⭐<b>Unhealthy Architecture Design.</b> Bad  architecture design and abstractions tightly couple downstream Android with the upstream AOSP code, leading to recurring conflicts (O2.3)</td>
@@ -47,16 +47,16 @@ The icon in front of each suggestion represents its type: 📆management, 📄do
 	</tr>
     <tr>
 		<td align="left"  rowspan="4"><b>Conflict Resolution</b></td>
-		<td align="left" >⭐<b>Substantial Efforts on Conflict Analysis.</b> Analyzing the commit history of conflicting code is the most time-consuming in manual conflict resolution, followed by devising resolution solutions (O3.1)</td>
-        <td align="left" >⭐📆📄<b>Resolution Guidelines and Team Collaboration.</b> It is advisable to establish conflict resolution guidelines and enhance team collaboration (R3.1)</td>
+		<td align="left" >⭐<b>Obstacles of Conflict Resolution.</b> Major factors impede effective conflict resolution, including the dependencies associated with conflicting code, the conflicts between old and new versions of downstream code, and the divergence between upstream and downstream changes (O3.3)</td>
+        	<td align="left" >⭐📆📄<b>Conflict Knowledge Transfer.</b> The development team should learn from past experiences and patterns to create systematic knowledge for facilitating conflict resolution (R3.2)</td>
 	</tr>
     <tr>
-		<td align="left" >⭐<b>Obstacles of Conflict Resolution.</b> Major factors impede effective conflict resolution, including the dependencies associated with conflicting code, the conflicts between old and new versions of downstream code, and the divergence between upstream and downstream changes (O3.3)</td>
-        <td align="left" >⭐📆📄<b>Conflict Knowledge Transfer.</b> The development team should learn from past experiences and patterns to create systematic knowledge for facilitating conflict resolution (R3.2)</td>
-	</tr>
+		<td align="left" ><b>Substantial Efforts on Conflict Analysis.</b> Analyzing the commit history of conflicting code is the most time-consuming in manual conflict resolution, followed by devising resolution solutions (O3.1)</td>
+        	<td align="left" >📆📄<b>Resolution Guidelines and Team Collaboration.</b> It is advisable to establish conflict resolution guidelines and enhance team collaboration (R3.1)</td>
+ 	</tr>
     <tr>
 		<td align="left" ><b>Change Intent Inspection.</b> Due to the unfamiliarity with upstream AOSP and downstream commits, developers find it challenging to pinpoint underlying change intent (O3.2)</td>
-        <td align="left" ></td>
+        	<td align="left" ></td>
 	</tr>
     <tr>
         <td align="left" ><b>Insufficient Conflict Resolution Tools.</b> Developers utilize tools to improve conflict resolution efficiency but note deficiencies in accuracy, performance, and usability of tools (O3.4)</td>
