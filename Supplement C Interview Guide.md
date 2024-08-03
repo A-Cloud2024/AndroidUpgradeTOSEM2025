@@ -47,8 +47,8 @@ Including one project manager, two Android architects, three senior developers, 
    - What is the definition of a code staking point in an Android upgrade scenario? Does it refer to upstream and downstream code coupling points? Or downstream self-developed code feature modules that can exist stably in multiple versions? **(I8)**
 
 - **Architecture Compatibility Issues:**
-   - What types of adaptation issues are included with Google's architecture changes? (I9)
-   - What is the impact of the structure change on each of the three merging strategies? What are the coping approaches? (I10)
+   - What types of adaptation issues are included with Google's architecture changes? **(I9)**
+   - What is the impact of the structure change on each of the three merging strategies? What are the coping approaches? **(I10)**
 
 
 *►[Conflict Reason and Conflict Type]*
