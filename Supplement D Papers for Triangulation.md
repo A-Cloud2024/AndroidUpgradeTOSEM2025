@@ -44,3 +44,4 @@
 42. Jialu Zhang, Todd Mytkowicz, Mike Kaufman, Ruzica Piskac, and Shuvendu K. Lahiri. 2022. Using pre-trained language models to resolve textual and semantic merge conflicts (experience paper). In Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis. https://doi.org/10.1145/3533767.3534396
 43. Mehran Mahmoudi and Sarah Nadi. 2018. The Android update problem: an empirical study. Mining Software Repositories,Mining Software Repositories.
 44. Mehran Mahmoudi. 2019. An Empirical Investigation of Software Merging Challenges.
+45. Pei Liu, Mattia Fazzini, John Grundy, and Li Li. 2022. Do Customized Android Frameworks Keep Pace with Android? In Proceedings of the 19th International Conference on Mining Software Repositories. https://doi.org/10.1145/3524842.3527963
