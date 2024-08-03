@@ -54,9 +54,9 @@ This questionnaire primarily covers the experiences and challenges faced by Andr
    4. When using existing tools, what issues do you think still need improvement or optimization? [Text Question Q28]
    5. Based on your experience, what methods or tools do you think could improve the current conflict resolution process? [Text Question Q27]
 - **Familiarity with Historical Solutions**:
-   1. Resolving conflicts requires understanding Google's historical solutions. Please help assess your familiarity with these solutions. (4 - Not very familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q17]
-   2. Resolving conflicts requires understanding self-developed project historical solutions. Please help assess your familiarity with these solutions. (4 - Not very familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q18]
-   3. Resolving conflicts requires understanding Google's new upgrade solutions. Please help assess your familiarity with these solutions. (4 - Not very familiar, each change needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, thorough initial commit analysis, can quickly recall issues) [Text Question Q19]
+   1. Resolving conflicts requires understanding Google's historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q17]
+   2. Resolving conflicts requires understanding self-developed project historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q18]
+   3. Resolving conflicts requires understanding Google's new upgrade solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, thorough initial commit analysis, can quickly recall issues) [Text Question Q19]
 
 *►[Conflict Impact Analysis]*
 
@@ -78,33 +78,6 @@ This questionnaire primarily covers the experiences and challenges faced by Andr
 *►[Follow-up]*
 
 1. Would you be willing to accept a follow-up interview? (We can discuss the evolution of upgrades together, making future upgrades smoother) [Text Question Q20]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
