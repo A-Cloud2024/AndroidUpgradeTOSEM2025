@@ -1,8 +1,8 @@
 # Supplement E Summary of Challenges with Recommendations
 
-During the research process, we observed the challenges and difficulties in the Android upgrade conflict scenarios, and summarized the actual pain points encountered by Android vendors in the first three phases of the upgrade, details of which can be found in Chapters 5-8, and a list of the information can be seen in the overview table below.  
+During the research process, we observed the challenges and difficulties in the Android upgrade conflict scenarios, and summarized the actual pain points encountered by Android vendors in the different stages of the upgrade, details of which can be found in Chapters 5-8, and a list of the information can be seen in the overview table below.  
 
-⭐star mark refers to the important challenges and recommends. 
+⭐star mark refers to the priority of challenges and recommends. 
 
 The icon in front of each suggestion represents its type: 📆management, 📄documentation, 🛠️tools️, 🧑‍💻process. 
 <table>
