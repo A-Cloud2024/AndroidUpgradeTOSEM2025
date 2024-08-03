@@ -34,10 +34,10 @@ Including one project manager, two Android architects, three senior developers, 
 
 *►[Conflict prediction and architectural issues]*
 
-- **Valid branches in Google's changed code: **
+- **Valid branches in Google's changed code:** 
    - What factors or empirical metrics are used to determine that branching or committing is effective and something to focus on?**(I3)**
    
-- **Three merging strategies: **
+- **Three merging strategies:**
    - What are the definitions of forward upgrade, reverse upgrade and merger upgrade in an Android upgrade scenario? **(I4)**
    - What is the difference between the three of them? **(I5)**
 
