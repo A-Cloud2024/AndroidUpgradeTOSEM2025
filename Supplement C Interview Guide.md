@@ -12,9 +12,9 @@ Including one project manager, two Android architects, three senior developers, 
 | SD1-WP         | Senior developer             | 5-10                | Android System Development             |
 | SD2-ZY         | Senior developer             | 5-10                | Android System Development             |
 | SD3-CBW        | Senior developer             | 5-10                | Android System Development             |
-| JD1-WPC        | Senior developer             | <5                  | Android System Development             |
-| JD2-GYC        | Senior developer             | <5                  | Android System Development             |
-| JD3-XS         | Senior developer             | <5                  | Android System Development             |
+| JD1-WPC        | Junior developer             | <5                  | Android System Development             |
+| JD2-GYC        | Junior developer             | <5                  | Android System Development             |
+| JD3-XS         | Junior developer             | <5                  | Android System Development             |
 
 ## Interview Introduction
 
