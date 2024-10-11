@@ -381,7 +381,6 @@
 
 
 
-
 ### Table 6 The distribution of question types
 
 <table>
