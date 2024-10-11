@@ -6,3 +6,4 @@ This is a github repository for the Appendix of AndroidUpgradeICSE2025, includin
 - **Supplement D Papers for triangulation:** This is the list of papers used for triangulation, where the contents of the papers are used to triangulate the data when summarizing the results of the questionnaires and interviews.
 - **Supplement E Summary of Challenges with recommendations:** This is a summary document that summarizes the challenges and corresponding recommendations we observed throughout the research process.
 - **Supplement F Statistical Data:** This is a document of statistical data description, through the form of charts to visualize the data we collected in the questionnaire research, which appeared in the paper, and we make it public in this repository as support for the paper.
+- **Supplement G Review Rebuttal:** This is a document used to display the tables and images cited in the Review Rebuttal.
