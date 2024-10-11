@@ -99,25 +99,25 @@
     <tr>
         <td align="center" >Project Manager</td>
 		<td align="center" >>10</td>
-        <td align="center" ></td>
+        <td align="center" >0</td>
         <td align="center" >1</td>
-        <td align="center" ></td>
-        <td align="center" ></td>
+        <td align="center" >0</td>
+        <td align="center" >0</td>
         <td align="center" >1</td>
     </tr>
     <tr>
         <td align="center" >Android Architects</td>
 		<td align="center" >>10</td>
-        <td align="center" ></td>
+        <td align="center" >0</td>
         <td align="center" >4</td>
-        <td align="center" ></td>
-        <td align="center" ></td>
+        <td align="center" >0</td>
+        <td align="center" >0</td>
         <td align="center" >4</td>
     </tr>
     <tr>
         <td align="center" >Senior Developers</td>
 		<td align="center" >>10</td>
-        <td align="center" ></td>
+        <td align="center" >0</td>
         <td align="center" >2</td>
         <td align="center" >2</td>
         <td align="center" >6</td>
