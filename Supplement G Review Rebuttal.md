@@ -161,70 +161,7 @@
     </tr>
 </table>
 
-
-
-### Table 4 The demographics of interview participants
-
-<table>
-  	<tr>
-		<td align="center" ></td>
-        <td align="center" ></td>
-        <td align="center" colspan="3" ><b>Android upgrade (*frequency*)</b></td>
-	</tr>
-	<tr>
-        <td align="center" >Role</td>
-		<td align="center" ><b>Experience(*years*)</b></td>
-        <td align="center" >>50</td>
-        <td align="center" >10-50</td>
-        <td align="center" >Total</td>
-	</tr>
-    <tr>
-        <td align="center" >Project Manager</td>
-		<td align="center" >>10</td>
-        <td align="center" ></td>
-        <td align="center" >1</td>
-        <td align="center" >1</td>
-    </tr>
-    <tr>
-        <td align="center" >Android Architects</td>
-		<td align="center" >>10</td>
-        <td align="center" ></td>
-        <td align="center" >2</td>
-        <td align="center" >2</td>
-    </tr>
-    <tr>
-        <td align="center" >Android Architects</td>
-		<td align="center" >5-10</td>
-        <td align="center" >3</td>
-        <td align="center" ></td>
-        <td align="center" >3</td>
-    </tr>
-    <tr>
-        <td align="center" >Senior Developers</td>
-		<td align="center" >3-5</td>
-        <td align="center" >2</td>
-        <td align="center" ></td>
-        <td align="center" >2</td>
-    </tr>
-    <tr>
-        <td align="center" >Senior Developers</td>
-		<td align="center" ><3</td>
-        <td align="center" >1</td>
-        <td align="center" ></td>
-        <td align="center" >1</td>
-    </tr>
-    <tr>
-		<td align="center" >Total</td>
-        <td align="center" >-</td>
-        <td align="center" >6</td>
-        <td align="center" >3</td>
-        <td align="center" >9</td>
-    </tr>
-</table>
-
-
-
-### Table 5 Distribution of venues and related aspects of papers
+### Table 4 Distribution of venues and related aspects of papers
 
 <table>
   	<tr>
@@ -381,7 +318,7 @@
 
 
 
-### Table 6 The distribution of question types
+### Table 5 The distribution of question types
 
 <table>
   	<tr>
