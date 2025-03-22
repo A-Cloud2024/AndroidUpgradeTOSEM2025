@@ -22,62 +22,62 @@ This questionnaire primarily covers the experiences and challenges faced by Andr
 
 *►[Personal Information]*
 
-- **Android Business Modules**: Which features or modules are you primarily responsible for developing? [Text Question Q1]
-- **Number of Participations in Android Upgrade Processes**: How many versions have you participated in conflict resolution for system upgrades? [Single Choice Question Q2]
-- **Level of Work Experience**: How many years of Android work experience do you have? [Single Choice Question Q3]
-- **Total Number of Conflicts Resolved**: How many conflicts have you resolved in total? [Single Choice Question Q4]
+- **Android Business Modules**: Which features or modules are you primarily responsible for developing? [Open-ended Question Q1]
+- **Number of Participations in Android Upgrade Processes**: How many versions have you participated in conflict resolution for system upgrades? [Single-select Question Q2]
+- **Level of Work Experience**: How many years of Android work experience do you have? [Single-select Question Q3]
+- **Total Number of Conflicts Resolved**: How many conflicts have you resolved in total? [Single-select Question Q4]
 
 *►[Conflict Causes and Types]*
 
 - **Conflict Causes**: 
-   1. Based on your experience, what do you think are the causes of conflicts? [Text Question Q10]
-   2. How often do you review Google commits and self-developed commits when analyzing the causes of conflicts? [Single Choice Question Q14]
+   1. Based on your experience, what do you think are the causes of conflicts? [Open-ended Question Q10]
+   2. How often do you review Google commits and self-developed commits when analyzing the causes of conflicts? [Single-select Question Q14]
 
 - **Conflict Types**:
-   1. What types of conflicts have you resolved during the conflict resolution process? [Multiple Choice Question Q5]
-   2. Which specific types of conflicts are more difficult to handle? [Multiple Choice Question Q16]
+   1. What types of conflicts have you resolved during the conflict resolution process? [Multiple-answer Question Q5]
+   2. Which specific types of conflicts are more difficult to handle? [Multiple-answer Question Q16]
 
 *►[Conflict Resolution]*
 
 - **Conflict Resolution Process and Time**:
-   1. How many steps does your process for resolving a single conflict in codex involve? (Your understanding of conflicts is important for tool development and training) [Text Question Q6]
-   2. How many steps does your process for resolving a single conflict involve? What is the time distribution for each step? [Text Question Q12]
-   3. How long does it typically take to resolve a complex conflict? Does it require assistance from other engineers, such as voice models or conflict change commits? [Text Question Q13]
-   4. What is the total time allocated for your conflict resolution tasks? [Single Choice Question Q11]
+   1. How many steps does your process for resolving a single conflict in codex involve? (Your understanding of conflicts is important for tool development and training) [Open-ended Question Q6]
+   2. How many steps does your process for resolving a single conflict involve? What is the time distribution for each step? [Open-ended Question Q12]
+   3. How long does it typically take to resolve a complex conflict? Does it require assistance from other engineers, such as voice models or conflict change commits? [Open-ended Question Q13]
+   4. What is the total time allocated for your conflict resolution tasks? [Single-select Question Q11]
 - **Conflict Resolution Methods**:
-   1. Which conflict resolution methods do you use more frequently? [Multiple Choice Question Q7]
-   2. How do you handle conflict code that repeatedly appears in multiple versions? [Multiple Choice Question Q9]
+   1. Which conflict resolution methods do you use more frequently? [Multiple-answer Question Q7]
+   2. How do you handle conflict code that repeatedly appears in multiple versions? [Multiple-answer Question Q9]
 - **Technical and Tool Challenges**:
-   1. What technical challenges do you usually encounter when resolving merge conflicts? [Text Question Q15]
-   2. What tools or resources do you typically use when handling conflicts? [Text Question Q21]
-   3. Have these tools effectively helped you reduce conflict resolution time or improve efficiency? [Text Question Q22]
-   4. When using existing tools, what issues do you think still need improvement or optimization? [Text Question Q28]
-   5. Based on your experience, what methods or tools do you think could improve the current conflict resolution process? [Text Question Q27]
+   1. What technical challenges do you usually encounter when resolving merge conflicts? [Open-ended Question Q15]
+   2. What tools or resources do you typically use when handling conflicts? [Open-ended Question Q21]
+   3. Have these tools effectively helped you reduce conflict resolution time or improve efficiency? [Open-ended Question Q22]
+   4. When using existing tools, what issues do you think still need improvement or optimization? [Open-ended Question Q28]
+   5. Based on your experience, what methods or tools do you think could improve the current conflict resolution process? [Open-ended Question Q27]
 - **Familiarity with Historical Solutions**:
-   1. Resolving conflicts requires understanding Google's historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q17]
-   2. Resolving conflicts requires understanding self-developed project historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Text Question Q18]
-   3. Resolving conflicts requires understanding Google's new upgrade solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, thorough initial commit analysis, can quickly recall issues) [Text Question Q19]
+   1. Resolving conflicts requires understanding Google's historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Single-select Question Q17]
+   2. Resolving conflicts requires understanding self-developed project historical solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, no need to review commits, and already know the solution) [Single-select Q18]
+   3. Resolving conflicts requires understanding Google's new upgrade solutions. Please assess your familiarity with these solutions on a scale of 1-10. (1 - Least familiar, each solution needs to be understood from the basic architectural principles; 6 - Need to individually review commits and understand historical solutions; 10 - Very familiar, thorough initial commit analysis, can quickly recall issues) [Single-select Question Q19]
 
 *►[Conflict Impact Analysis]*
 
-- Does the conflict resolution process involve code or files outside the conflict blocks? [Single Choice Question Q8]
+- Does the conflict resolution process involve code or files outside the conflict blocks? [Single-select Question Q8]
 
 *►[Other]*
 
 - **Team Management**:
-   1. During the conflict resolution process, which team members (e.g., other developers, testers, project managers) do you usually need to collaborate with? [Text Question Q23]
-   2. Is the collaboration effective, and is there room for improvement? [Text Question Q24]
+   1. During the conflict resolution process, which team members (e.g., other developers, testers, project managers) do you usually need to collaborate with? [Open-ended Question Q23]
+   2. Is the collaboration effective, and is there room for improvement? [Open-ended Question Q24]
 - **Stress and Support**:
-   1. What kind of emotional pressure do you usually feel during the conflict resolution process? [Text Question Q25]
-   2. Are there any specific supports or strategies that help you cope with project-related stress? [Text Question Q26]
+   1. What kind of emotional pressure do you usually feel during the conflict resolution process? [Open-ended Question Q25]
+   2. Are there any specific supports or strategies that help you cope with project-related stress? [Open-ended Question Q26]
 - **Experience Sharing and Suggestions**:
-   1. What suggestions do you have for new developers to help them resolve such issues more effectively? [Text Question Q29]
-   2. Can you share an experience of particularly difficult or successful conflict resolution? [Text Question Q30]
-   3. What important lessons have you learned from these experiences? [Text Question Q31]
+   1. What suggestions do you have for new developers to help them resolve such issues more effectively? [Open-ended Question Q29]
+   2. Can you share an experience of particularly difficult or successful conflict resolution? [Open-ended Question Q30]
+   3. What important lessons have you learned from these experiences? [Open-ended Question Q31]
 
 *►[Follow-up]*
 
-1. Would you be willing to accept a follow-up interview? (We can discuss the evolution of upgrades together, making future upgrades smoother) [Text Question Q20]
+1. Would you be willing to accept a follow-up interview? (We can discuss the evolution of upgrades together, making future upgrades smoother) [Single-select Question Q20]
 
 
 
