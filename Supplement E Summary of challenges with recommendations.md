@@ -29,7 +29,7 @@ The icon in front of each suggestion represents its type: 📆management, 📄do
         	<td align="left" ></td>
 	</tr>
     <tr>
-		<td align="left"  rowspan="4">Conflict Reason</td>
+		<td align="left"  rowspan="4"><b>Conflict Reason</b></td>
 		<td align="left" >⭐<b>AOSP Rapid Iteration.</b> Upstream AOSP's frequent feature iterations, code refactoring, and  updates made by Google trigger conflicts (O2.1)</td>
         	<td align="left" >⭐🛠️🧑‍💻<b>Understanding Architectural Coupling.</b> Developers  can employ tools to figure out the coupling between downstream Android and upstream AOSP (R2.3)</td>
 	</tr>
