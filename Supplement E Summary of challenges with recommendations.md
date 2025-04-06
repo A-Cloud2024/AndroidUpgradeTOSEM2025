@@ -17,7 +17,7 @@ The icon in front of each suggestion represents its type: 📆management, 📄do
         	<td align="left" >⭐🛠️🧑‍💻<b>Architecture Change Detection.</b> Architecture change detection tools can be enhanced to locate deprecated features, irreversible features, duplicated features, etc., and further bridge high-level architecture changes with implementation-level code modifications (R1.2)</td>
 	</tr>
         <tr>
-		<td align="left" >⭐<b>Upgrade Strategy Decision.</b> It is challenging to determine the most suitable Android upgrade strategy, whether to adopt a forward, reverse, or merger upgrade (O1.3)</td>
+		<td align="left" >⭐<b>Upgrade Strategy Decision.</b> It is challenging to determine the most suitable Android upgrade strategy, whether to adopt a upstream-based, downstream-based, or merger upgrade (O1.3)</td>
         	<td align="left" >⭐📄<b>Architecture Evolution Documentation.</b> It is significant to maintain comprehensive documentation of the architecture including features, architecture design, and the evolution process for Android systems (R1.1).</td>
 	</tr>
 	<tr>
