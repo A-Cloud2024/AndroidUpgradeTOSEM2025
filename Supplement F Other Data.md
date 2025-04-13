@@ -4,11 +4,11 @@
 
 ### Table 1 The comparison in responses to the single-choice questions.
 
-We selected the responses to the single-choice questions for a variance analysis, grouping the participants' responses by work experience, and dividing the intervals into **76 participants with less than 5 years, 29 participants with 5-10 years, and 15 participants with more than 10 years.**
+We selected the responses to the single-choice questions for a variance analysis, grouping the participants' responses by work experience, and dividing the intervals into **76 participants with less than 5 years, 29 participants with 5-10 years, and 15 participants with more than 10 years.** The detailed distribution of responses to the questions is shown in the table below.
 
 <table>
   	<tr>
-		<td align="center" >Question</td>
+	<td align="center" >Question</td>
         <td align="center" >Options</td>
         <td align="center" >Under 5 years</td>
         <td align="center" >5-10 years</td>
@@ -40,7 +40,7 @@ We selected the responses to the single-choice questions for a variance analysis
         <td align="center">6</td>
 	</tr>
     <tr>
-        <td align="left" rowspan=5>Q11. What is the total time allocated for your conflict resolution tasks? </td>
+        <td align="left" rowspan=4>Q11. What is the total time allocated for your conflict resolution tasks? </td>
         <td align="left" >1 day</td>
         <td align="center">43</td>
         <td align="center">15</td>
@@ -53,16 +53,10 @@ We selected the responses to the single-choice questions for a variance analysis
         <td align="center">5</td>
 	</tr>
     <tr>
-        <td align="left" >5 days</td>
-        <td align="center">25</td>
-        <td align="center">11</td>
-        <td align="center">5</td>
-	</tr>
-    <tr>
         <td align="left" >7 days</td>
         <td align="center">6</td>
         <td align="center">1</td>
-        <td align="center"></td>
+        <td align="center">0</td>
 	</tr>
     <tr>
         <td align="left" >Although ample time is given, it is always done at the last moment.</td>
@@ -222,7 +216,7 @@ This table shows the number of supporters and the support rate of observations. 
         <td align="left" >Impact Propagation via Dependencies</td>
         <td align="center">53</td>
         <td align="center">53</td>
-        <td align="center">1/td>
+        <td align="center">1</td>
 	</tr>
     <tr>
         <td align="center">O4.2</td>
@@ -329,7 +323,7 @@ This table shows the number of supporters and the support rate of observations. 
         <td align="left" >Conflict Dependency Analysis</td>
         <td align="center">20</td>
         <td align="center">20</td>
-        <td align="center">1/td>
+        <td align="center">1</td>
 	</tr>
     <tr>
         <td align="center">R4.2</td>
